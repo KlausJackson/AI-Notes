@@ -1,3 +1,13 @@
+google/
+3_Classification/
+4_Clustering/
+5_Association-Rule-Learning/
+6_Reinforcement-Learning/
+8_Deep-Learning/
+9_Dimensionality-Reduction/
+10_Model-Selection-Boosting/
+Regression.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
